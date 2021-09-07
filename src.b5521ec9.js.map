@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["colors"],"mappings":";AAAA,MAAMA,EAAS,CAAC,UAAW,UAAW,UAAW,UAAW,UAAW","file":"src.b5521ec9.js","sourceRoot":"../src","sourcesContent":["const colors = ['#FFFFFF', '#2196F3', '#4CAF50', '#FF9800', '#009688', '#795548'];\n"]}
